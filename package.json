@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Hendrieke Voss",
 	"description": "super cool project",
+	"keywords": ["one", "two", "three"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
